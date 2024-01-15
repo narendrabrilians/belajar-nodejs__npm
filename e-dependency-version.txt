@@ -1,0 +1,11 @@
+Semantic Version MAJOR.MINOR.PATCH
+
+x => update walaupun MAJOR berubah
+1.x
+1.1.x
+1.1.1
+
+~1.1.1 => download, jika ada update, update hanya jika PATCH berubah
+^1.1.1 => download, jika ada update, update hanya jika MINOR dan PATCH berubah
+
+Baca dulu package-lock.json sehingga misal "~4.17.19" dan di package-lock.json itu 4.17.19 maka tetap karena kompatibel (kalau npm install tapi kalau npm update maka update)

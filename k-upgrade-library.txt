@@ -1,0 +1,3 @@
+upgrade di package.json dengan Semantic Version
+
+publish ulang tapi ganti version terlebih dahulu

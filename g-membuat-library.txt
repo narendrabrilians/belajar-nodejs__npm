@@ -1,0 +1,4 @@
+1. Membuat akun https://www.npmjs.com/
+2. Membuat folder & npm init beserta isinya
+3. Ubah menjadi type module
+4. Buat index.js yang berisi export

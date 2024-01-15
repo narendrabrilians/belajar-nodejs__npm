@@ -1,0 +1,7 @@
+npm install namapackage --save-dev
+
+"devDependencies": {
+
+}
+
+install hanya production tanpa development dependency => npm install --production

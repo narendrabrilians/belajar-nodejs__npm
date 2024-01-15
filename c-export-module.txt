@@ -1,0 +1,13 @@
+ hanya 1
+
+"main": "app.js",
+
+di-load ketika kita me-load NodeJS Project / Package
+
+
+Banyak & bisa tanpa .js
+
+"exports": {
+  ".": ./app.js",
+  "./write": ./write.js"
+}

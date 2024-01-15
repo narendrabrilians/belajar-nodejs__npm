@@ -1,0 +1,5 @@
+"dependencies": {
+  "lodash": "4.17.21"
+}
+
+package-lock.json => informasi versi package yang di-download (informasi detail dependencies)

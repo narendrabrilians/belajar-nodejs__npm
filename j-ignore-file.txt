@@ -1,0 +1,4 @@
+Buat file .npmignore
+
+folder .idea
+file log *.log
